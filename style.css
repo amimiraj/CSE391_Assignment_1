@@ -201,8 +201,13 @@ transition:0s;
 
 table{
  width: 90%;
- font-size: medium;
+ /* font-size: medium; */
+ /* border: 1px solid white; */
 
+}
+
+table tr td{
+    border: 0.5px solid #393E46;
 }
 
 .column {
